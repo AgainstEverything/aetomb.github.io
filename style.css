@@ -12,7 +12,7 @@
 
 
 body {
-    background-color: rgb(255, 30, 30);
+    background-color: rgba(255, 0, 0, 0.897);
     min-height: 100px;
     max-width: 300px;
 }
@@ -80,6 +80,8 @@ background: white;
 color: black;
 }
 
+
+    
     
 
 
