@@ -12,7 +12,7 @@
 
 
 body {
-    background-color: red;
+    background-color: rgb(221, 0, 0);
     min-height: 100px;
     max-width: 300px;
 }
@@ -49,10 +49,9 @@ header .logo {
     font-size: 2em;
     text-transform: uppercase;
     letter-spacing: 4px;
-
-
-
 }
+
+
 
 header ul {
 
@@ -80,5 +79,13 @@ header ul li a:hover {
 background: white;
 color: black;
 }
+
+
+    
+
+
+
+
+
 
 
