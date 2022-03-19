@@ -1,0 +1,41 @@
+body {
+
+    background-color: black;
+
+}
+
+header ul li a {
+
+    text-decoration: none;
+    padding: 6px 15px;
+    color: white;
+    border-radius: 20px;
+}
+
+header ul li a:hover {
+
+    text-decoration: none;
+    padding: 10px 10px;
+    color: red;
+    border-radius: 25px;
+}
+
+header ul li {
+
+list-style: none;
+margin-left: 20px;
+
+}
+
+a:hover {
+
+    color: white;
+}
+
+a {
+
+    font-style: italic;
+    text-decoration: none;
+    color: red;
+    margin-left: 600px;
+}
