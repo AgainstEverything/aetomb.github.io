@@ -12,7 +12,7 @@
 
 
 body {
-    background-color: rgb(255, 49, 49);
+    background-color: rgb(255, 30, 30);
     min-height: 100px;
     max-width: 300px;
 }
@@ -79,8 +79,6 @@ header ul li a:hover {
 background: white;
 color: black;
 }
-
-
 
     
 
